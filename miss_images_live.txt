@@ -1,0 +1,17 @@
+# fake but predicted live
+
+../../training_data/LivDet2013/SwipeTrain/Spoof/Playdoh/2126749_R1_1.bmp
+../../training_data/LivDet2015/Digital_Persona/Fake/WoodGlue/017_5_0.png
+../../training_data/LivDet2013/CrossMatchTrain/Spoof/WoodGlue/2126749_R3_2.bmp
+../../training_data/LivDet2013/CrossMatchTrain/Spoof/Latex/1523465_R1_2.bmp
+../../training_data/LivDet2015/CrossMatch/Fake/Ecoflex/2521949_R4_1.bmp
+../../training_data/LivDet2015/Digital_Persona/Fake/Gelatine/008_5_4.png
+../../training_data/LivDet2013/CrossMatchTrain/Spoof/Playdoh/4913326_R1_1.bmp
+../../training_data/LivDet2013/CrossMatchTrain/Spoof/Latex/5950184_R4_1.bmp
+../../training_data/LivDet2009/CrossMatch/Gelatin/0863775_R1_2/2s.bmp
+../../training_data/LivDet2015/Hi_Scan/Fake/Gelatine/014_6_9.bmp
+../../training_data/LivDet2009/CrossMatch/Gelatin/0863775_R1_2/0s.bmp
+../../training_data/LivDet2011/SagemTrain/Spoof/Latex/4384784_20110310145350_R2_6_FG08_01_05.bmp
+../../training_data/LivDet2013/SwipeTrain/Spoof/WoodGlue/3631071_R2_6.bmp
+../../training_data/LivDet2015/Hi_Scan/Fake/WoodGlue/012_9_0.bmp
+../../training_data/LivDet2015/Hi_Scan/Fake/WoodGlue/012_4_4.bmp

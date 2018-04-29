@@ -1,0 +1,26 @@
+# live but predicted fake
+
+../../training_data/LivDet2015/CrossMatch/Live/3088988_R3_2.bmp
+../../training_data/LivDet2015/GreenBit/Live/005_3_6.png
+../../training_data/LivDet2013/SwipeTrain/Live/3137306_R1_4.bmp
+../../training_data/LivDet2015/Hi_Scan/Live/021_9_9.bmp
+../../training_data/LivDet2015/Hi_Scan/Live/011_4_6.bmp
+../../training_data/LivDet2015/GreenBit/Live/005_5_4.png
+../../training_data/LivDet2015/Time_Series/Live/4081563_L3_2_5.bmp
+../../training_data/LivDet2015/Time_Series/Live/1632784_L5_1_3.bmp
+../../training_data/LivDet2009/CrossMatch/Alive/1557413_R1_114/2s.bmp
+../../training_data/LivDet2015/Time_Series/Live/6798583_R1_3_3.bmp
+../../training_data/LivDet2013/SwipeTrain/Live/3137306_R1_6.bmp
+../../training_data/LivDet2015/CrossMatch/Live/2512714_L2_3.bmp
+../../training_data/LivDet2013/SwipeTrain/Live/4354990_R4_5.bmp
+../../training_data/LivDet2013/CrossMatchTrain/Live/2521949_R4_3.bmp
+../../training_data/LivDet2013/SwipeTrain/Live/3773766_R2_2.bmp
+../../training_data/LivDet2013/CrossMatchTrain/Live/1188887_R4_3.bmp
+../../training_data/LivDet2011/SagemTrain/Live/787916a_20101201143022_Enroll_R2_1_FG10_01_Li.bmp
+../../training_data/LivDet2011/SagemTrain/Live/1877801_20100303162414_Enroll_R2_1_FG10_01_Li.bmp
+../../training_data/LivDet2013/ItaldataTrain/Live/066TlpLthbItd.png
+../../training_data/LivDet2015/Digital_Persona/Live/008_4_3.png
+../../training_data/LivDet2015/CrossMatch/Live/4081563_L5_1.bmp
+../../training_data/LivDet2015/Time_Series/Live/6798583_L1_2_1.bmp
+../../training_data/LivDet2013/SwipeTrain/Live/4855892_R1_2.bmp
+../../training_data/LivDet2015/Hi_Scan/Live/021_8_9.bmp
